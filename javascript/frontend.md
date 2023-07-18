@@ -11,6 +11,7 @@
  # Functionality essentials
 - redux : https://redux.js.org/
     - redux-toolkit : https://redux-toolkit.js.org/. // use redux toolkit recommended
+    - immutability : https://immutable-js.com/
 - redux-saga : https://redux-saga.js.org/
 - axios : https://www.npmjs.com/package/axios
 - router : https://reactrouter.com/en/main
