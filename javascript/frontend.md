@@ -25,7 +25,9 @@
 - tailwind : https://tailwindcss.com/
 # ui
 - https://github.com/mui/mui-x
-
+# toast
+- react-toastify : https://www.npmjs.com/package/react-toastify
+- sonner :https://www.npmjs.com/package/sonner
 ## quilling
 - react-quill : https://github.com/zenoamaro/react-quill
 - draft-js
